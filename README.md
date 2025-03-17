@@ -2,6 +2,8 @@
 
 **Leveraging AI & Salesforce for Sustainable Community Development**
 
+![LISC New York Logo](images/LISC_NewYork_stacked.png)
+
 ---
 
 ## **I. Comprehensive Vision for AI Integration within LISC NY**

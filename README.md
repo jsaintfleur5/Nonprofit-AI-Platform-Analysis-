@@ -1,8 +1,3 @@
-# Nonprofit-AI-Platform-Analysis-
-AI platform for NYS nonprofits: Data-driven strategies & resource optimization.
-
----
-
 # **AI Integration Strategy for LISC NY**
 
 **Leveraging AI & Salesforce for Sustainable Community Development**

@@ -6,6 +6,19 @@
 
 ---
 
+## **Table of Contents**
+
+1.  [I. Comprehensive Vision for AI Integration within LISC NY](#i-comprehensive-vision-for-ai-integration-within-lisc-ny)
+2.  [II. Integrating the Pre-Qualification Tool with Other Projects & Salesforce ERP](#ii-integrating-the-pre-qualification-tool-with-other-projects--salesforce-erp)
+3.  [III. Nonprofit AI Platform Analysis – Deliverables & Recommendations](#iii-nonprofit-ai-platform-analysis--deliverables--recommendations)
+4.  [IV. LISC NY Beta Pre-Qualification System: Strengths, Weaknesses, & Recommendations](#iv-lisc-ny-beta-pre-qualification-system-strengths-weaknesses--recommendations)
+5.  [V. Potential Enhancements for the Pre-Qualification Tool - Executive Presentation Recommendations](#v-potential-enhancements-for-the-pre-qualification-tool---executive-presentation-recommendations)
+6.  [VI. AI for Impact Measurement & Stakeholder Reporting](#vi-ai-for-impact-measurement--stakeholder-reporting)
+7.  [VII. Conclusion & Next Steps](#vii-conclusion--next-steps)
+
+---
+
+
 ## **I. Comprehensive Vision for AI Integration within LISC NY**
 
 LISC NY is uniquely positioned to leverage AI to enhance lending, community development, and policy advocacy while aligning with its overarching mission of fostering equitable and sustainable growth across New York State. AI can provide **real-time insights, optimize funding allocation, enhance impact measurement, and streamline decision-making** by integrating advanced analytics, automation, and predictive modeling into LISC NY’s operations.
@@ -89,7 +102,7 @@ The **LISC NY Beta Pre-qualification System** is a **critical AI-driven tool** d
 
 ---
 
-## **V. ## Potential Enhancements for the Pre-Qualification Tool - Executive Presentation Recommendations**
+## **V. Potential Enhancements for the Pre-Qualification Tool - Executive Presentation Recommendations**
 
 Here are key areas where the consultant can significantly improve the Pre-Qualification Tool, enhancing its effectiveness and alignment with LISC's strategic goals.
 
@@ -143,3 +156,11 @@ By integrating AI with **Salesforce ERP**, LISC NY can streamline decision-makin
 * Deploy AI-integrated reporting in Salesforce
 
 **Outcome:** A **smarter, more efficient LISC NY**, equipped with AI-driven tools to drive meaningful community impact.
+
+[Back to Top](#table-of-contents)
+
+---
+
+## **License Advisory**
+
+This project, including its documentation and analysis, is intended for internal use within LISC NY. The AI platform and associated tools may contain proprietary information. Distribution, reproduction, or external sharing of this material without explicit authorization from LISC NY is prohibited. For any licensing inquiries or external collaboration requests, please consult with LISC NY's legal department.

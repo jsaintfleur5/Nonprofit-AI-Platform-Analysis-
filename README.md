@@ -92,7 +92,7 @@ The **LISC NY Beta Pre-qualification System** is a **critical AI-driven tool** d
 
 ---
 
-## **V. 20 Specific, Actionable Improvements for the Pre-Qualification Tool**
+## **V. Actionable Improvements for the Pre-Qualification Tool**
 
 ### **AI Model/Algorithm Improvements**
 

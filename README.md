@@ -33,17 +33,17 @@ LISC NY is uniquely positioned to leverage AI to enhance lending, community deve
 
 The **LISC NY Beta Pre-qualification System** is a **critical AI-driven tool** designed to screen, assess, and pre-qualify nonprofit organizations for funding and program participation. To maximize its effectiveness, it must **seamlessly integrate with Salesforce** and support the broader LISC NY initiative portfolio.
 
-| **Project** | **Pre-Qualification Tool Contribution** |
+| **Project**                                      | **Pre-Qualification Tool Contribution**                                          |
 
-|------------|----------------------------------|
+|--------------------------------------------------|----------------------------------------------------------------------------------|
 
-| **Nonprofit Roll Expansion** | Identifies potential nonprofit partners based on need, impact, and eligibility. |  
+| **Nonprofit Roll Expansion**                     | Identifies potential nonprofit partners based on need, impact, and eligibility.  |
 
-| **Semiconductor Economic Development Expansion** | Helps assess potential community beneficiaries for semiconductor-related investments. |  
+| **Semiconductor Economic Development Expansion** | Helps assess potential community beneficiaries for semiconductor-related investments. |
 
-| **Housing Network Growth** | Identifies high-potential housing projects and funding recipients based on eligibility. |  
+| **Housing Network Growth**                        | Identifies high-potential housing projects and funding recipients based on eligibility. |
 
-| **Manufactured Housing Loan Program** | Evaluates potential borrowers and lending risks using AI-driven financial assessments. |  
+| **Manufactured Housing Loan Program**            | Evaluates potential borrowers and lending risks using AI-driven financial assessments. | 
 
 ### **Salesforce ERP Integration Plan**  
 

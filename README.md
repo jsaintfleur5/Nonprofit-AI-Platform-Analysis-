@@ -38,22 +38,23 @@ This repository is organized into **eight sections**, each supporting LISC NY’
 ## **🚀 AI Implementation Roadmap for LISC NY**
 LISC NY is implementing AI in **three phases** to ensure seamless adoption and staff readiness.
 
-### **🔹 Phase 1: Pilot AI Programs (0-6 months)**
+### **🔹 Phase 1: Pilot AI Programs (0-12 months)**
 ✅ **AI-powered RFP management** – Automate bid evaluation and contract tracking.  
 ✅ **AI-driven compliance tracking** – Identify regulatory risks in funding programs.  
 ✅ **AI dashboards** – Visualize program impact in real time.  
 
-### **🔹 Phase 2: Full AI and ERP Integration (6-12 months)**
+### **🔹 Phase 2: Full AI and ERP Integration (12-24 months)**
 ✅ **AI-powered lending and credit risk assessment** – Improve loan evaluations.  
 ✅ **AI-enhanced Salesforce ERP analytics** – Provide real-time financial insights.  
 ✅ **Automated compliance tracking** – Reduce manual reporting errors.  
 
-### **🔹 Phase 3: AI Expansion and Optimization (1-3 years)**
+### **🔹 Phase 3: AI Expansion and Optimization (1-5 years)**
 ✅ **Scale AI for predictive decision-making across all LISC NY programs**.  
 ✅ **Develop AI-powered grant and funder reporting tools**.  
 ✅ **Expand AI’s role in risk management and fraud prevention**.  
 
-📄 **For details on AI implementation timelines, visit:** [07_AI_Roadmap_Implementation.md](07_AI_Roadmap_Implementation.md)  
+📌 **For a detailed AI deployment timeline, refer to the** [AI Roadmap & Implementation](07_AI_Roadmap_Implementation.md).  
+
 
 ---
 

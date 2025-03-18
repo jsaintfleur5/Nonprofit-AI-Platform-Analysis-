@@ -85,9 +85,9 @@ LISC NY’s AI tools leverage **government and internal data sources** to enhanc
 ## **📌 Conclusion**
 LISC NY’s AI strategy is designed to **streamline operations, improve financial oversight, and strengthen compliance and impact tracking**. This repository is your **go-to resource** for understanding AI’s role in your work.
 
-📂 **Explore the repository and learn how AI will support your role at LISC NY!** 🚀
+📂 **Explore the repository and learn how AI will support your role at LISC NY!** 🚀  
 
-[Back to Top](#📌-Overview)
+[🔼 Back to Top](#📌-overview)  
 
 ---
 

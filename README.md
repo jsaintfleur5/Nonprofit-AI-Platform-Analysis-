@@ -19,20 +19,20 @@ LISC NY is integrating **Artificial Intelligence (AI)** across **lending, grant 
 ---
 
 ## **📁 Repository Structure & Navigation**
-This repository is structured into **eight key sections**, each aligned with LISC NY’s AI initiatives.
+This repository is organized into **eight sections**, each supporting LISC NY’s AI initiatives.
 
-| **Section** | **Description** | **Quick Access** |
-|------------|----------------|------------------|
-| 📖 **[01_Introduction.md](01_Introduction.md)** | Overview of AI integration for LISC NY and key objectives. | [📄 Read More](01_Introduction.md) |
-| 📄 **[02_AI_Integration_Outgoing_RFPs.md](02_AI_Integration_Outgoing_RFPs.md)** | AI-powered tools for drafting, reviewing, and managing outgoing RFPs. | [📄 Read More](02_AI_Integration_Outgoing_RFPs.md) |
-| 📄 **[03_AI_Integration_Incoming_RFPs.md](03_AI_Integration_Incoming_RFPs.md)** | AI-driven grant discovery, proposal writing, and compliance tracking. | [📄 Read More](03_AI_Integration_Incoming_RFPs.md) |
-| ⚙ **[04_AI_Enhancements_ERP_System.md](04_AI_Enhancements_ERP_System.md)** | AI-driven automation, compliance tracking, and decision-making for Salesforce ERP. | [📄 Read More](04_AI_Enhancements_ERP_System.md) |
-| 📊 **[05_AI_Impact_Measurement.md](05_AI_Impact_Measurement.md)** | AI tools for tracking and reporting LISC NY’s community impact. | [📄 Read More](05_AI_Impact_Measurement.md) |
-| 💼 **[06_AI_Business_Benefits.md](06_AI_Business_Benefits.md)** | How AI improves LISC NY’s efficiency, cost savings, and strategic growth. | [📄 Read More](06_AI_Business_Benefits.md) |
-| 🚀 **[07_AI_Roadmap_Implementation.md](07_AI_Roadmap_Implementation.md)** | Timeline for AI deployment across LISC NY’s operations. | [📄 Read More](07_AI_Roadmap_Implementation.md) |
-| 📚 **[08_Appendix_Resources.md](08_Appendix_Resources.md)** | Internal training resources, data sources, and ERP guides. | [📄 Read More](08_Appendix_Resources.md) |
+| **Section** | **Description** |
+|------------|----------------|
+| 📖 **[01_Introduction.md](01_Introduction.md)** | Overview of AI integration and key objectives. |
+| 📄 **[02_AI_Integration_Outgoing_RFPs.md](02_AI_Integration_Outgoing_RFPs.md)** | AI-powered tools for drafting and managing outgoing RFPs. |
+| 📄 **[03_AI_Integration_Incoming_RFPs.md](03_AI_Integration_Incoming_RFPs.md)** | AI-driven grant discovery, proposal writing, and compliance tracking. |
+| ⚙ **[04_AI_Enhancements_ERP_System.md](04_AI_Enhancements_ERP_System.md)** | AI automation and compliance tracking for Salesforce ERP. |
+| 📊 **[05_AI_Impact_Measurement.md](05_AI_Impact_Measurement.md)** | AI tools for tracking and reporting community impact. |
+| 💼 **[06_AI_Business_Benefits.md](06_AI_Business_Benefits.md)** | AI’s role in improving efficiency, cost savings, and strategy. |
+| 🚀 **[07_AI_Roadmap_Implementation.md](07_AI_Roadmap_Implementation.md)** | AI deployment timeline for LISC NY. |
+| 📚 **[08_Appendix_Resources.md](08_Appendix_Resources.md)** | Training materials, data sources, and ERP guides. |
 
-📌 **Quick Tip:** Click on any **[📄 Read More]** link to go directly to the file.
+🔗 **Click any section title to view the file.**
 
 ---
 

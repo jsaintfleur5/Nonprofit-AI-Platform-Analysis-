@@ -1,7 +1,7 @@
-# **AI Integration Strategy for LISC NY**
-**Leveraging AI & Salesforce for Sustainable Community Development**
+# **AI Integration Strategy for LISC NY**  
+## **Leveraging AI & Salesforce for Sustainable Community Development**  
 
-![LISC New York Logo](images/LISC_NY_horizontal PRIMARY LOGO.png)
+![LISC New York Logo](images/LISC_NY_horizontal_PRIMARY_LOGO.png)  
 
 ---
 

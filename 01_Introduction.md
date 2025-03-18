@@ -73,7 +73,7 @@ This repository is structured into the following sections:
 | `01_Introduction.md`                             | Provides an overview of the AI integration strategy. |
 | `02_AI_Integration_Outgoing_RFPs.md`             | Details AI-driven enhancements in LISC’s outgoing RFPs. |
 | `03_AI_Integration_Incoming_RFPs.md`             | Describes AI solutions for responding to external RFPs. |
-| `04_AI_Enhancements_ERP_Training.md`            | Covers AI-driven improvements in LISC’s ERP workflows. |
+| `04_AI_Enhancements_ERP_System.md`            | Covers AI-driven improvements in LISC’s ERP workflows. |
 | `05_AI_Impact_Measurement.md`                    | Explains AI-based tracking of grants, loans, and impact. |
 | `06_AI_Business_Benefits.md`                     | Outlines the financial, operational, and strategic benefits of AI. |
 | `07_AI_Roadmap_Implementation.md`                | Defines the phased approach for AI implementation. |

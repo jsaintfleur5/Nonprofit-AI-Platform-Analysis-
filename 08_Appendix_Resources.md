@@ -56,7 +56,7 @@ LISC’s AI models will be **fully integrated** into its **Salesforce ERP system
 |-----------------|----------------|
 | [Salesforce ERP Documentation](https://help.salesforce.com/s/) | Official Salesforce ERP user guide. |
 | [Salesforce AI and Einstein](https://www.salesforce.com/products/einstein/overview/) | Guide to AI-driven business intelligence within Salesforce. |
-| [LISC ERP Training Materials] | Internal documentation on LISC’s ERP workflows (to be provided internally). |
+| [LISC ERP Training Materials](https://learn.lisc.org/#/online-courses/373ab79b-de07-4a0e-a5aa-37602dc97410) | Internal documentation on LISC’s ERP workflows (to be provided internally). |
 
 ---
 

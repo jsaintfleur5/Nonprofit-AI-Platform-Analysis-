@@ -119,5 +119,5 @@ The integration of AI into LISC’s incoming RFP processes will yield **multiple
 The integration of **AI into LISC’s incoming RFP processes** will **streamline funding identification, proposal drafting, financial forecasting, and compliance monitoring**. By leveraging AI, LISC can **increase funding success rates, optimize resource allocation, and reduce administrative burdens**.
 
 The next step in this repository is:  
-**[04_AI_Enhancements_ERP_Training.md](04_AI_Enhancements_ERP_Training.md)**
+**[04_AI_Enhancements_ERP_Training.md](04_AI_Enhancements_ERP_System.md)**
 

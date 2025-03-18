@@ -21,18 +21,17 @@ LISC NY is integrating **Artificial Intelligence (AI)** across **lending, grant 
 ## **📁 Repository Structure & Navigation**
 This repository is organized into **eight sections**, each supporting LISC NY’s AI initiatives.
 
-| **Section** | **Description** |
-|------------|----------------|
-| 📖 **[01_Introduction.md](01_Introduction.md)** | Overview of AI integration and key objectives. |
-| 📄 **[02_AI_Integration_Outgoing_RFPs.md](02_AI_Integration_Outgoing_RFPs.md)** | AI-powered tools for drafting and managing outgoing RFPs. |
-| 📄 **[03_AI_Integration_Incoming_RFPs.md](03_AI_Integration_Incoming_RFPs.md)** | AI-driven grant discovery, proposal writing, and compliance tracking. |
-| ⚙ **[04_AI_Enhancements_ERP_System.md](04_AI_Enhancements_ERP_System.md)** | AI automation and compliance tracking for Salesforce ERP. |
-| 📊 **[05_AI_Impact_Measurement.md](05_AI_Impact_Measurement.md)** | AI tools for tracking and reporting community impact. |
-| 💼 **[06_AI_Business_Benefits.md](06_AI_Business_Benefits.md)** | AI’s role in improving efficiency, cost savings, and strategy. |
-| 🚀 **[07_AI_Roadmap_Implementation.md](07_AI_Roadmap_Implementation.md)** | AI deployment timeline for LISC NY. |
-| 📚 **[08_Appendix_Resources.md](08_Appendix_Resources.md)** | Training materials, data sources, and ERP guides. |
-
-🔗 **Click any section title to view the file.**
+### **📌 Sections Overview**
+| **Section** | **Description** | **Quick Access** |
+|------------|----------------|------------------|
+| 📖 **Introduction** | Overview of AI integration and key objectives. | [📄 Read More](01_Introduction.md) |
+| 📄 **AI Integration – Outgoing RFPs** | AI-powered tools for drafting and managing outgoing RFPs. | [📄 Read More](02_AI_Integration_Outgoing_RFPs.md) |
+| 📄 **AI Integration – Incoming RFPs** | AI-driven grant discovery, proposal writing, and compliance tracking. | [📄 Read More](03_AI_Integration_Incoming_RFPs.md) |
+| ⚙ **AI Enhancements – ERP System** | AI automation and compliance tracking for Salesforce ERP. | [📄 Read More](04_AI_Enhancements_ERP_System.md) |
+| 📊 **AI for Impact Measurement** | AI tools for tracking and reporting community impact. | [📄 Read More](05_AI_Impact_Measurement.md) |
+| 💼 **AI Business Benefits** | AI’s role in improving efficiency, cost savings, and strategy. | [📄 Read More](06_AI_Business_Benefits.md) |
+| 🚀 **AI Roadmap & Implementation** | AI deployment timeline for LISC NY. | [📄 Read More](07_AI_Roadmap_Implementation.md) |
+| 📚 **Appendix & Resources** | Training materials, data sources, and ERP guides. | [📄 Read More](08_Appendix_Resources.md) |
 
 ---
 
@@ -59,26 +58,26 @@ LISC NY is implementing AI in **three phases** to ensure seamless adoption and s
 ---
 
 ## **🔗 Key Data Sources & Internal AI Resources**
-LISC NY’s AI tools will leverage **government and internal data sources** to improve funding strategies, policy advocacy, and program performance.
+LISC NY’s AI tools leverage **government and internal data sources** to enhance funding strategies, policy advocacy, and program performance.
 
 ### **📊 Internal & External Data Sources**
 | **Source** | **Description** | **Access** |
 |------------|----------------|------------|
-| 📈 [Census Bureau Data](https://data.census.gov/) | Economic, housing, and demographic data for funding analysis. | [🔗 Visit](https://data.census.gov/) |
-| 💰 [Database of Economic Incentives](https://esd.ny.gov/database-economic-incentives) | New York State economic incentives for funding programs. | [🔗 Visit](https://esd.ny.gov/database-economic-incentives) |
-| 🧠 [AI for Data Analysis](https://team-gpt.com/blog/using-ai-for-data-analysis-6-use-cases-statistics-examples-and-tools/) | AI-driven business intelligence and analytics. | [🔗 Visit](https://team-gpt.com/blog/using-ai-for-data-analysis-6-use-cases-statistics-examples-and-tools/) |
+| 📈 **Census Bureau Data** | Economic, housing, and demographic data for funding analysis. | [🔗 Visit](https://data.census.gov/) |
+| 💰 **Database of Economic Incentives** | New York State economic incentives for funding programs. | [🔗 Visit](https://esd.ny.gov/database-economic-incentives) |
+| 🧠 **AI for Data Analysis** | AI-driven business intelligence and analytics. | [🔗 Visit](https://team-gpt.com/blog/using-ai-for-data-analysis-6-use-cases-statistics-examples-and-tools/) |
 
-📄 **For internal training and AI tools, visit:** [08_Appendix_Resources.md](08_Appendix_Resources.md)  
+📚 **For internal training materials, AI tools, and ERP documentation, refer to the** [Appendix & Resources](08_Appendix_Resources.md).  
 
 ---
 
 ## **✅ Staff Next Steps & AI Training**
-### **🔹 What LISC NY Staff Should Do**
-1. **Learn how AI applies to your department** – Read the relevant section of this repository.  
-2. **Access AI Training & Salesforce ERP Documentation** – Review internal training materials.  
-3. **Provide Feedback & Engage in AI Adoption** – Participate in discussions and testing.  
+### **📌 What LISC NY Staff Should Do**
+1. **Understand AI’s Role in Your Department** – Read the relevant section of this repository.  
+2. **Review Internal Training & Documentation** – Access AI training materials and Salesforce ERP guides.  
+3. **Engage & Provide Feedback** – Participate in discussions, test AI tools, and share insights.  
 
-📄 **For AI training resources, visit:** [08_Appendix_Resources.md](08_Appendix_Resources.md)  
+📚 **Training materials and AI resources are available in the** [Appendix & Resources](08_Appendix_Resources.md).  
 
 ---
 

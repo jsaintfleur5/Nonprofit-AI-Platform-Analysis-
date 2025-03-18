@@ -87,8 +87,6 @@ LISC NY’s AI strategy is designed to **streamline operations, improve financia
 
 📂 **Explore the repository and learn how AI will support your role at LISC NY!** 🚀  
 
-[🔼 Back to Top](#📌-overview)  
-
 ---
 
 ## **🔐 Internal Use Only**

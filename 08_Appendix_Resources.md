@@ -19,7 +19,7 @@ To ensure **responsible AI implementation**, LISC will follow **established AI g
 |-------------|----------------|
 | [OECD AI Principles](https://oecd.ai/en/ai-principles) | Global guidelines for ethical AI implementation. |
 | [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) | AI risk management best practices from the U.S. National Institute of Standards and Technology. |
-| [IBM AI Fairness 360](https://aif360.mybluemix.net/) | Open-source toolkit for detecting bias in AI models. |
+| [IBM AI Fairness 360](https://research.ibm.com/blog/ai-fairness-360) | Open-source toolkit for detecting bias in AI models. |
 
 ---
 

@@ -10,15 +10,15 @@ This roadmap provides a **clear action plan** for deploying AI across LISC’s c
 ## **2. AI Implementation Framework**
 LISC’s AI integration follows a **three-phase approach**:
 
-- **Phase 1: Pilot AI Programs (0-6 months)**  
+- **Phase 1: Pilot AI Programs (0-12 months)**  
   - Test AI applications in key areas to **assess feasibility and effectiveness**.
   - Train staff and **gather feedback for iterative improvements**.
 
-- **Phase 2: Full AI and ERP Integration (6-12 months)**  
+- **Phase 2: Full AI and ERP Integration (12-24 months)**  
   - Expand AI adoption into **RFP workflows, financial planning, and impact measurement**.
   - Integrate AI models within **Salesforce ERP and compliance tracking systems**.
 
-- **Phase 3: AI Expansion and Optimization (1-3 years)**  
+- **Phase 3: AI Expansion and Optimization (1-5 years)**  
   - Scale AI models to **all LISC programs nationwide**.
   - Develop **predictive analytics and AI-driven strategic decision-making tools**.
 

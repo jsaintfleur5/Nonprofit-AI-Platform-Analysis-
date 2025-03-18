@@ -1,5 +1,4 @@
 # **AI for Impact Measurement and Reporting**
-## **05_AI_Impact_Measurement.md**
 
 ## **1. Overview**
 LISC is committed to **measuring and improving the impact of its programs** in **community development, lending, grant management, and nonprofit partnerships**. Traditionally, **impact tracking and reporting require extensive data collection, manual analysis, and labor-intensive reporting processes**.

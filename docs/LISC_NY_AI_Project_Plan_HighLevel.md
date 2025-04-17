@@ -32,7 +32,6 @@ Primary stakeholders include LISC NY leadership, departmental staff, IT and data
 - Facilitated co-design session and discussion documentation  
 - High-level roadmap for implementation (post-retreat)
 
-
 ## Project Timeline (Gantt Chart)
 
 ```mermaid
@@ -48,26 +47,27 @@ gantt
     Confirm project scope             :done, after a2, 1d
 
     section Phase 2: Staff Engagement and Research
-    Design and distribute survey      :a4, 2025-04-18, 2d
-    Collect survey responses          :a5, after a4, 4d
-    Conduct interviews                :a6, after a4, 4d
-    Synthesize insights               :a7, after a5, 2d
+    Design and distribute survey      :active, 2025-04-18, 2d
+    Collect survey responses          :active, after a4, 4d
+    Conduct interviews                :active, after a4, 4d
+    Synthesize insights               :active, after a5, 2d
     Insights Prioritized              :milestone, 2025-04-24, 0d
 
     section Phase 3: Prototype and Content Design
-    Develop presentation draft        :a8, 2025-04-25, 3d
-    Refine based on feedback          :a9, after a8, 2d
-    Build interactive elements        :a10, after a9, 2d
+    Develop presentation draft        :crit, 2025-04-25, 3d
+    Refine based on feedback          :crit, after a8, 2d
+    Build interactive elements        :crit, after a9, 2d
     Deck Finalized                    :milestone, 2025-04-29, 0d
 
     section Phase 4: Delivery and Co-Design Session
-    Final review and run-through      :a11, 2025-05-01, 1d
-    Deliver presentation              :a12, 2025-05-06, 1d
+    Final review and run-through      :active, 2025-05-01, 1d
+    Deliver presentation              :active, 2025-05-06, 1d
     Staff Retreat                     :milestone, 2025-05-06, 0d
 
     section Phase 5: Post-Retreat Reflection
-    Capture feedback and observations :a13, 2025-05-07, 2d
-    Define implementation roadmap     :a14, after a13, 1d
+    Capture feedback and observations :2025-05-07, 2d
+    Define implementation roadmap     :2025-05-09, 1d
+
 
 ```
 

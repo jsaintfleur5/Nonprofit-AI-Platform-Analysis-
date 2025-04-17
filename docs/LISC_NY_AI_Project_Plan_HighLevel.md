@@ -35,7 +35,7 @@ Primary stakeholders include LISC NY leadership, departmental staff, IT and data
 
 ## Project Timeline (Gantt Chart)
 
-```mermaid
+```mermaid gantt
     title LISC NY AI Solutions Project Timeline
     dateFormat  YYYY-MM-DD
     axisFormat  %b %d

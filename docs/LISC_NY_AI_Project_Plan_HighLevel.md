@@ -43,31 +43,30 @@ gantt
 
     section Phase 1: Discovery and Planning
     Kickoff and alignment meeting     :done, 2025-04-14, 1d
-    Define goals and success metrics  :done, after a1, 2d
-    Confirm project scope             :done, after a2, 1d
+    Define goals and success metrics  :done, 2025-04-15, 2d
+    Confirm project scope             :done, 2025-04-17, 1d
 
     section Phase 2: Staff Engagement and Research
     Design and distribute survey      :active, 2025-04-18, 2d
-    Collect survey responses          :active, after a4, 4d
-    Conduct interviews                :active, after a4, 4d
-    Synthesize insights               :active, after a5, 2d
-    Insights Prioritized              :milestone, 2025-04-24, 0d
+    Collect survey responses          :active, 2025-04-21, 4d
+    Conduct interviews                :2025-04-21, 3d
+    Synthesize insights               :2025-04-25, 2d
+    Insights Prioritized              :milestone, 2025-04-28, 0d
 
     section Phase 3: Prototype and Content Design
-    Develop presentation draft        :crit, 2025-04-25, 3d
-    Refine based on feedback          :crit, after a8, 2d
-    Build interactive elements        :crit, after a9, 2d
-    Deck Finalized                    :milestone, 2025-04-29, 0d
+    Develop presentation draft        :crit, 2025-04-29, 3d
+    Refine based on feedback          :2025-05-02, 2d
+    Build interactive elements        :2025-05-05, 2d
+    Deck Finalized                    :milestone, 2025-05-07, 0d
 
     section Phase 4: Delivery and Co-Design Session
-    Final review and run-through      :active, 2025-05-01, 1d
-    Deliver presentation              :active, 2025-05-06, 1d
-    Staff Retreat                     :milestone, 2025-05-06, 0d
+    Final review and run-through      :2025-05-08, 1d
+    Deliver presentation              :active, 2025-05-09, 1d
+    Staff Retreat                     :milestone, 2025-05-09, 0d
 
     section Phase 5: Post-Retreat Reflection
-    Capture feedback and observations :2025-05-07, 2d
-    Define implementation roadmap     :2025-05-09, 1d
-
+    Capture feedback and observations :2025-05-10, 2d
+    Define implementation roadmap     :2025-05-13, 1d
 
 ```
 

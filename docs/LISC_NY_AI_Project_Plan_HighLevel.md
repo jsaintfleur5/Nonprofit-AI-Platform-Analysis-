@@ -2,35 +2,47 @@
 
 ## Project Overview
 
-The LISC NY AI Solutions Project is a strategic initiative to identify, develop, and implement artificial intelligence (AI) solutions that address key operational challenges across departments. The objective is to enable LISC NY to better serve communities by reducing administrative burden, improving pipeline management, and enhancing decision-making through data-driven insights.
+The LISC NY AI Solutions Project is a time-bound initiative aimed at improving operational efficiency, optimizing staff capacity, and enhancing organizational performance through targeted AI applications. By automating routine processes and improving access to actionable data, this project supports LISC NY’s broader strategic objectives: service scalability, cost-effectiveness, and results-based management.
 
-The project emphasizes collaboration between staff and leadership to ensure AI tools align with actual workflows and organizational needs. Focus areas include AI-enabled process automation, natural language processing (NLP) for documentation support, and predictive analytics for program and impact tracking.
+This initiative is grounded in operational alignment and stakeholder engagement. It is structured to ensure that solutions address measurable pain points, are informed by end-user experience, and are scalable across departments. The anticipated outcomes include reduced manual workloads, improved pipeline oversight, and enhanced decision-making quality across programs and operations.
 
-Primary stakeholders include LISC NY leadership, departmental staff, IT and data teams, and external technology partners.
+Key areas of focus include:
+- Workflow automation to reduce administrative burden  
+- Enhanced data access to support planning and reporting  
+- Tools that support agile, data-informed resource allocation  
 
-## Project Phases and Timeline
-
-| Phase                              | Duration                | Description                                                    |
-|-----------------------------------|-------------------------|----------------------------------------------------------------|
-| 1. Discovery and Strategic Planning | Week 1 (April 14–17)     | Align on goals, define scope, and set success metrics           |
-| 2. Staff Engagement and Research    | Weeks 2–3 (April 18–25)  | Conduct survey and interviews, identify pain points             |
-| 3. Prototype and Content Design     | Weeks 3–4 (April 25–May 1) | Create interactive presentation and draft AI solution concepts  |
-| 4. Delivery and Co-Design Session   | Week 4 (May 2–6)         | Present findings and facilitate a collaborative feedback session |
-
-## Key Milestones
-
-- April 18, 2025 – Staff survey launched  
-- April 24, 2025 – Survey themes synthesized and prioritized  
-- April 29, 2025 – First draft of presentation completed  
-- May 1, 2025 – Final run-through of presentation  
-- May 6, 2025 – Presentation delivered at LISC NY Staff Retreat
+---
 
 ## Key Deliverables
 
-- Staff insight summary  
-- AI Solutions presentation slide deck  
-- Facilitated co-design session and discussion documentation  
-- High-level roadmap for implementation (post-retreat)
+- Staff insight report based on survey results and qualitative engagement  
+- Executive-level AI Solutions presentation aligned with organizational goals  
+- Co-design workshop session with synthesized feedback and solution themes  
+- Initial post-retreat roadmap for implementation, with a focus on operational gains  
+- Recommendations for prioritized use cases, including estimated efficiency impact  
+
+---
+
+## Project Phases and Timeline
+
+| Phase                               | Timeline                | Objectives                                                  |
+|------------------------------------|-------------------------|-------------------------------------------------------------|
+| 1. Discovery and Strategic Planning | Week 1 (April 14–17)     | Confirm goals, success metrics, and define strategic scope  |
+| 2. Staff Engagement and Research    | Weeks 2–3 (April 18–25)  | Gather frontline insights and identify high-friction processes |
+| 3. Prototype and Content Design     | Weeks 3–4 (April 25–May 1)| Develop interactive presentation and align messaging with priorities |
+| 4. Delivery and Co-Design Session   | Week 4 (May 2–6)         | Present solutions, gather feedback, and validate priorities |
+
+---
+
+## Key Milestones
+
+- **April 18, 2025** – Staff survey launched  
+- **April 24, 2025** – Survey themes synthesized and insights prioritized  
+- **April 29, 2025** – First draft of presentation completed  
+- **May 1, 2025** – Final presentation reviewed and approved  
+- **May 6, 2025** – Presentation delivered at LISC NY Staff Retreat  
+
+---
 
 ## Project Timeline (Gantt Chart)
 
@@ -72,22 +84,16 @@ gantt
 
 ---
 
-## Potential Challenges & Mitigation Strategies
-
-| Challenge                                 | Mitigation Strategy                                                  |
-|------------------------------------------|----------------------------------------------------------------------|
-| Staff resistance to AI adoption          | Provide early engagement, training, and transparent communication    |
-| Limited data accessibility or quality    | Conduct early data inventory and start with narrow, well-defined pilots |
-| Project resource or capacity constraints | Prioritize quick wins; bring in external support where needed        |
-
----
-
 ## Next Steps
 
-- Complete internal review of survey findings  
-- Finalize interactive presentation and rehearsal  
-- Facilitate co-design session at the May 6 Staff Retreat  
-- Capture insights and build out post-retreat roadmap  
+- Finalize synthesis of feedback from staff engagement activities  
+- Complete production of executive-ready presentation materials  
+- Facilitate co-design session during the May 6 Staff Retreat  
+- Document key takeaways and align on priorities for implementation  
+- Develop a post-retreat roadmap with operational KPIs and success metrics  
+
+
+Primary stakeholders include LISC NY leadership, departmental staff, IT and data teams, and external technology partners.
 
 ---
 

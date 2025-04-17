@@ -74,7 +74,6 @@ gantt
     section Phase 5: Post-Retreat Reflection
     Capture feedback and observations :a13, 2025-05-07, 2d
     Define implementation roadmap     :a14, after a13, 1d
-```
 
 
 ---

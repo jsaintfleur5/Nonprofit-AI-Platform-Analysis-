@@ -1,57 +1,45 @@
 # LISC NY AI Solutions Project: High-Level Plan
 
----
+## Project Overview
 
-## 📘 Project Overview
+The LISC NY AI Solutions Project is a strategic initiative to identify, develop, and implement artificial intelligence (AI) solutions that address key operational challenges across departments. The objective is to enable LISC NY to better serve communities by reducing administrative burden, improving pipeline management, and enhancing decision-making through data-driven insights.
 
-The **LISC NY AI Solutions Project** is designed to identify, develop, and implement AI-driven tools that address key operational challenges within LISC NY. The initiative is part of a broader effort to streamline administrative tasks, enhance pipeline management, and support more effective service delivery to New York communities.
+The project emphasizes collaboration between staff and leadership to ensure AI tools align with actual workflows and organizational needs. Focus areas include AI-enabled process automation, natural language processing (NLP) for documentation support, and predictive analytics for program and impact tracking.
 
-The project will focus on **AI-enabled process automation**, **data-driven decision support**, and **collaborative design of future solutions** involving staff and leadership. This approach ensures that technology aligns with real-world needs and that LISC NY continues to lead with innovation and purpose.
+Primary stakeholders include LISC NY leadership, departmental staff, IT and data teams, and external technology partners.
 
-**Key stakeholders** include LISC NY leadership, departmental staff, and technology partners. Their active engagement is essential to ensure relevance, usability, and long-term sustainability of the solutions.
+## Project Phases and Timeline
 
----
+| Phase                              | Duration                | Description                                                    |
+|-----------------------------------|-------------------------|----------------------------------------------------------------|
+| 1. Discovery and Strategic Planning | Week 1 (April 14–17)     | Align on goals, define scope, and set success metrics           |
+| 2. Staff Engagement and Research    | Weeks 2–3 (April 18–25)  | Conduct survey and interviews, identify pain points             |
+| 3. Prototype and Content Design     | Weeks 3–4 (April 25–May 1) | Create interactive presentation and draft AI solution concepts  |
+| 4. Delivery and Co-Design Session   | Week 4 (May 2–6)         | Present findings and facilitate a collaborative feedback session |
 
-## 🗓️ High-Level Phases & Timeline
+## Key Milestones
 
-| Phase                             | Duration              | Description                                                  |
-|----------------------------------|-----------------------|--------------------------------------------------------------|
-| 1. Discovery & Strategic Planning| Week 1 (Apr 14–17)    | Align on objectives, scope, and success metrics              |
-| 2. Staff Engagement & Research   | Week 2–3 (Apr 18–25)  | Survey, interviews, and pain point analysis                  |
-| 3. Prototype & Content Design    | Week 3–4 (Apr 25–May 1)| Develop interactive presentation and explore AI use cases    |
-| 4. Delivery & Co-Design Session  | Week 4 (May 2–6)      | Present findings, gather feedback, and co-design solutions   |
+- April 18, 2025 – Staff survey launched  
+- April 24, 2025 – Survey themes synthesized and prioritized  
+- April 29, 2025 – First draft of presentation completed  
+- May 1, 2025 – Final run-through of presentation  
+- May 6, 2025 – Presentation delivered at LISC NY Staff Retreat
 
----
+## Key Deliverables
 
-## 📍 Key Milestones
+- Staff insight summary  
+- AI Solutions presentation slide deck  
+- Facilitated co-design session and discussion documentation  
+- High-level roadmap for implementation (post-retreat)
 
-- **April 18, 2025** – Staff survey launched  
-- **April 24, 2025** – Survey themes synthesized and prioritized  
-- **April 29, 2025** – First draft of presentation slides completed  
-- **May 1, 2025** – Final run-through of presentation  
-- **May 6, 2025** – Presentation delivered at LISC NY Staff Retreat  
+## Technology Stack (Preliminary Overview)
 
----
+- AI Capabilities: process automation, NLP for document support, predictive analytics  
+- Data Infrastructure: cloud platforms (e.g., AWS, Azure), structured data systems  
+- AI Tools and Libraries: Python (scikit-learn, spaCy, Hugging Face)  
+- Collaboration Platforms: Canva (for design), Google Workspace, survey tools
 
-## 📦 Key Deliverables
-
-- Synthesized staff survey insights  
-- AI Solutions slide deck and co-design materials  
-- Facilitated co-design session at retreat  
-- High-level implementation roadmap (post-retreat)  
-
----
-
-## 🛠️ Technology Stack (High-Level)
-
-- **AI Capabilities:** Task automation, natural language processing (NLP), decision support analytics  
-- **Data Infrastructure:** Cloud storage and computing platforms (e.g., AWS, Azure)  
-- **AI Libraries & Tools:** Python-based frameworks (e.g., scikit-learn, spaCy, Hugging Face)  
-- **Productivity & Collaboration Tools:** Canva, Google Workspace, online survey tools  
-
----
-
-## 📊 Visual Timeline (Mermaid Gantt Chart)
+## Project Timeline (Gantt Chart)
 
 ```mermaid
 gantt
@@ -60,38 +48,38 @@ gantt
     axisFormat  %b %d
     excludes    weekends
 
-    section Phase 1: Discovery & Strategic Planning
-    Kickoff & alignment meeting     :done, a1, 2025-04-14, 1d
-    Define goals & success metrics  :done, a2, after a1, 2d
-    Confirm project scope           :done, a3, after a2, 1d
+    section Phase 1: Discovery and Planning
+    Kickoff and alignment meeting     :done, a1, 2025-04-14, 1d
+    Define goals and success metrics  :done, a2, after a1, 2d
+    Confirm project scope             :done, a3, after a2, 1d
 
-    section Phase 2: Staff Engagement & Research
-    Design & distribute survey      :a4, 2025-04-18, 2d
-    Collect survey responses        :a5, after a4, 4d
-    Conduct interviews              :a6, after a4, 4d
-    Synthesize feedback             :a7, after a5, 2d
-    Milestone: Insights prioritized :milestone, m1, 2025-04-24
+    section Phase 2: Staff Engagement and Research
+    Design and distribute survey      :a4, 2025-04-18, 2d
+    Collect survey responses          :a5, after a4, 4d
+    Conduct interviews                :a6, after a4, 4d
+    Synthesize insights               :a7, after a5, 2d
+    Milestone: Insights Prioritized   :milestone, m1, 2025-04-24
 
-    section Phase 3: Prototype & Content Design
-    Draft slides & visual concept   :a8, 2025-04-25, 3d
-    Refine based on insights        :a9, after a8, 2d
-    Build interactive components    :a10, after a9, 2d
-    Milestone: Slide deck complete  :milestone, m2, 2025-04-29
+    section Phase 3: Prototype and Content Design
+    Develop presentation draft        :a8, 2025-04-25, 3d
+    Refine based on feedback          :a9, after a8, 2d
+    Build interactive elements        :a10, after a9, 2d
+    Milestone: Deck Finalized         :milestone, m2, 2025-04-29
 
-    section Phase 4: Delivery & Co-Design Session
-    Final run-through               :a11, 2025-05-01, 1d
-    Deliver presentation            :a12, 2025-05-06, 1d
-    Milestone: Staff Retreat        :milestone, m3, 2025-05-06
+    section Phase 4: Delivery and Co-Design Session
+    Final review and run-through      :a11, 2025-05-01, 1d
+    Deliver presentation              :a12, 2025-05-06, 1d
+    Milestone: Staff Retreat          :milestone, m3, 2025-05-06
 
     section Phase 5: Post-Retreat Reflection
-    Capture feedback & lessons      :a13, 2025-05-07, 2d
-    Define implementation roadmap   :a14, after a13, 1d
+    Capture feedback and observations :a13, 2025-05-07, 2d
+    Define implementation roadmap     :a14, after a13, 1d
 ```
 
 
 ---
 
-## ⚠️ Potential Challenges & Mitigation Strategies
+## Potential Challenges & Mitigation Strategies
 
 | Challenge                                 | Mitigation Strategy                                                  |
 |------------------------------------------|----------------------------------------------------------------------|
@@ -101,7 +89,7 @@ gantt
 
 ---
 
-## ✅ Next Steps
+## Next Steps
 
 - Complete internal review of survey findings  
 - Finalize interactive presentation and rehearsal  

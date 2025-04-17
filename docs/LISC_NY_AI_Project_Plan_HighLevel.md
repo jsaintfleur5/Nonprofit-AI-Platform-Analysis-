@@ -32,17 +32,10 @@ Primary stakeholders include LISC NY leadership, departmental staff, IT and data
 - Facilitated co-design session and discussion documentation  
 - High-level roadmap for implementation (post-retreat)
 
-## Technology Stack (Preliminary Overview)
-
-- AI Capabilities: process automation, NLP for document support, predictive analytics  
-- Data Infrastructure: cloud platforms (e.g., AWS, Azure), structured data systems  
-- AI Tools and Libraries: Python (scikit-learn, spaCy, Hugging Face)  
-- Collaboration Platforms: Canva (for design), Google Workspace, survey tools
 
 ## Project Timeline (Gantt Chart)
 
-```mermaid
-gantt
+```gantt
     title LISC NY AI Solutions Project Timeline
     dateFormat  YYYY-MM-DD
     axisFormat  %b %d
@@ -58,23 +51,24 @@ gantt
     Collect survey responses          :a5, after a4, 4d
     Conduct interviews                :a6, after a4, 4d
     Synthesize insights               :a7, after a5, 2d
-    Milestone: Insights Prioritized   :milestone, m1, 2025-04-24
+    Insights Prioritized              :milestone, m1, 2025-04-24
 
     section Phase 3: Prototype and Content Design
     Develop presentation draft        :a8, 2025-04-25, 3d
     Refine based on feedback          :a9, after a8, 2d
     Build interactive elements        :a10, after a9, 2d
-    Milestone: Deck Finalized         :milestone, m2, 2025-04-29
+    Deck Finalized                    :milestone, m2, 2025-04-29
 
     section Phase 4: Delivery and Co-Design Session
     Final review and run-through      :a11, 2025-05-01, 1d
     Deliver presentation              :a12, 2025-05-06, 1d
-    Milestone: Staff Retreat          :milestone, m3, 2025-05-06
+    Staff Retreat                     :milestone, m3, 2025-05-06
 
     section Phase 5: Post-Retreat Reflection
     Capture feedback and observations :a13, 2025-05-07, 2d
     Define implementation roadmap     :a14, after a13, 1d
 
+```
 
 ---
 

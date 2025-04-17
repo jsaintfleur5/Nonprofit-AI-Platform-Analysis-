@@ -43,31 +43,32 @@ gantt
     excludes    weekends
 
     section Phase 1: Discovery and Planning
-    Kickoff and alignment meeting     :done, a1, 2025-04-14, 1d
-    Define goals and success metrics  :done, a2, after a1, 2d
-    Confirm project scope             :done, a3, after a2, 1d
+    Kickoff and alignment meeting     :done, 2025-04-14, 1d
+    Define goals and success metrics  :done, after a1, 2d
+    Confirm project scope             :done, after a2, 1d
 
     section Phase 2: Staff Engagement and Research
     Design and distribute survey      :a4, 2025-04-18, 2d
     Collect survey responses          :a5, after a4, 4d
     Conduct interviews                :a6, after a4, 4d
     Synthesize insights               :a7, after a5, 2d
-    Insights Prioritized              :milestone, m1, 2025-04-24
+    Insights Prioritized              :milestone, 2025-04-24, 0d
 
     section Phase 3: Prototype and Content Design
     Develop presentation draft        :a8, 2025-04-25, 3d
     Refine based on feedback          :a9, after a8, 2d
     Build interactive elements        :a10, after a9, 2d
-    Deck Finalized                    :milestone, m2, 2025-04-29
+    Deck Finalized                    :milestone, 2025-04-29, 0d
 
     section Phase 4: Delivery and Co-Design Session
     Final review and run-through      :a11, 2025-05-01, 1d
     Deliver presentation              :a12, 2025-05-06, 1d
-    Staff Retreat                     :milestone, m3, 2025-05-06
+    Staff Retreat                     :milestone, 2025-05-06, 0d
 
     section Phase 5: Post-Retreat Reflection
     Capture feedback and observations :a13, 2025-05-07, 2d
     Define implementation roadmap     :a14, after a13, 1d
+
 ```
 
 ---

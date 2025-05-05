@@ -80,19 +80,34 @@ LISC’s AI integration follows a **three-phase approach**:
 
 This high-level Gantt chart outlines the estimated durations and overlaps across key phases of the AI rollout.
 
-| Phase                             | 0–3 mo | 3–6 mo | 6–9 mo | 9–12 mo | 12–18 mo | 18–24 mo | 24–36 mo | 36–48 mo | 48–60 mo |
-|----------------------------------|--------|--------|--------|---------|----------|----------|----------|----------|----------|
-| Solicit Bids                     | ████   |        |        |         |          |          |          |          |          |
-| Design Phase                     |   ████ |        |        |         |          |          |          |          |          |
-| Pilot Phase (MVP)               | █████████████████               |          |          |          |          |
-| Full AI & ERP Integration        |                         ████████████       |          |          |          |
-| Expansion & Optimization         |                         ██████████████████████████████████        |
+| Phase                          | 0–3 mo | 3–6 mo | 6–9 mo | 9–12 mo | 12–18 mo | 18–24 mo | 24–36 mo | 36–48 mo | 48–60 mo |
+|-------------------------------|--------|--------|--------|--------|----------|----------|----------|----------|----------|
+| 🔵 Solicit Bids               | 🔵🔵🔵   |        |        |        |          |          |          |          |          |
+| 🟢 Design Phase               |  🟢🟢🟢   |        |        |        |          |          |          |          |          |
+| 🟡 Pilot Phase (MVP)          | 🟡🟡🟡🟡 | 🟡🟡🟡   | 🟡🟡🟡   | 🟡🟡🟡   |          |          |          |          |          |
+| 🟣 Full AI & ERP Integration  |        |        |        |        | 🟣🟣🟣🟣 | 🟣🟣🟣🟣 |          |          |          |
+| 🔴 Expansion & Optimization   |        |        |        |        | 🔴🔴🔴🔴 | 🔴🔴🔴🔴 | 🔴🔴🔴🔴 | 🔴🔴🔴🔴 | 🔴🔴🔴🔴 |
 
-Legend:  
-- Each block (████) = ~3 months  
-- Overlapping bars indicate concurrent workstreams and efficient handoffs
+---
 
-Timeline shows relative durations and sequence; actual start dates depend on procurement and resource readiness.
+### Legend
+
+- **🔵 Solicit Bids**: 1–3 months  
+- **🟢 Design Phase**: 1–4 months  
+- **🟡 Pilot Phase (MVP)**: 0–12 months  
+- **🟣 Full AI & ERP Integration**: 12–24 months  
+- **🔴 Expansion & Optimization**: 1–5 years  
+
+Each colored block = ~1.5 months (approx. for visual balance).  
+Overlapping bars reflect simultaneous planning, development, and scaling.
+
+---
+
+### Project Delivery Strategy:
+- **Early wins** through overlapping pilot and design phases  
+- **Scalable rollout** enabled by modular ERP integration  
+- **Long-term optimization** built into post-deployment roadmap  
+- Timeline is **adaptive** based on procurement timelines and staff readiness
 
 
 ---

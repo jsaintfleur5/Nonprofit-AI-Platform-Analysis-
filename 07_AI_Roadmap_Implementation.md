@@ -76,6 +76,27 @@ LISC’s AI integration follows a **three-phase approach**:
 
 ---
 
+# Preliminary AI Implementation Timeline
+
+This high-level Gantt chart outlines the estimated durations and overlaps across key phases of the AI rollout.
+
+| Phase                             | 0–3 mo | 3–6 mo | 6–9 mo | 9–12 mo | 12–18 mo | 18–24 mo | 24–36 mo | 36–48 mo | 48–60 mo |
+|----------------------------------|--------|--------|--------|---------|----------|----------|----------|----------|----------|
+| Solicit Bids                     | ████   |        |        |         |          |          |          |          |          |
+| Design Phase                     |   ████ |        |        |         |          |          |          |          |          |
+| Pilot Phase (MVP)               | █████████████████               |          |          |          |          |
+| Full AI & ERP Integration        |                         ████████████       |          |          |          |
+| Expansion & Optimization         |                         ██████████████████████████████████        |
+
+Legend:  
+- Each block (████) = ~3 months  
+- Overlapping bars indicate concurrent workstreams and efficient handoffs
+
+Timeline shows relative durations and sequence; actual start dates depend on procurement and resource readiness.
+
+
+---
+
 ## **6. AI Governance and Risk Management**
 ### **6.1 Ethical AI Guidelines**
 - **Bias Mitigation:** Ensure AI decision-making is **fair and unbiased**.
